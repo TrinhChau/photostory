@@ -1,1 +1,3 @@
 Photostory Project
+Author TrinhChau
+
